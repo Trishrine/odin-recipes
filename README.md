@@ -6,4 +6,4 @@ By the end of the project I should have a pretty brutal looking website, but it 
 
 Despite having learned some html before, this will likely utilize some of the things I learned that were new, and made more sense from an overall perspective.
 
-Hopefully this will be enjoyable, and work relatively well!
+Hopefully this will be enjoyable, and work relatively well! Even if we run into a few bumps along the way.
